@@ -7,5 +7,5 @@ O objetivo é mostrar como a métrica pode ser calculada com dados mínimos e, a
 ## 📁 Arquivos
 
 - `dau_simulation.ipynb`: notebook completo com simulação e visualização
-- `sample_user_data.csv`: dataset gerado com usuários fictícios
-- `dau_plot_plotly_with_labels.png`: gráfico final com valores destacados
+- `DAU_evolucao_diaria.png`: gráfico do DAU com a evolução diária
+- `DAU_diario_e_medio.png`: gráfico do DAU com a evolução diária e DAU médio
