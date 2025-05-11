@@ -13,7 +13,7 @@ Ambas têm suas vantagens, e seus riscos de interpretação.
 
 - `mau_simulation.ipynb`: notebook com simulação, cálculo e gráficos
 - `mau_calendar.png`: gráfico de linha com o MAU mensal
-- `rolling_MAU.png`: gráfico com o MAU usando janela rolante
+- `rolling_MAU.png`: gráfico com o MAU usando janela deslizante
 
 ## 📖 Leia o artigo completo
 
