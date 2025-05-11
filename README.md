@@ -11,3 +11,5 @@ Cada pasta corresponde a um post, com exemplos de código, gráficos, datasets e
   - 📓 [`dau/dau_simulation.ipynb`](./dau/dau_simulation.ipynb)
 - [WAU na prática: seu app é hábito ou só recebe visita de fim de semana?](https://medium.com/@giupessota/wau-na-prática-seu-app-é-hábito-ou-só-recebe-visita-de-fim-de-semana-0ce25f8bb932)
   - 📓 [`wau/wau_simulation.ipynb`](./wau/wau_simulation.ipynb)
+- [MAU na prática: o usuário tá ativo ou só não deletou o app?](https://medium.com/the-elegant-data-hacks/mau-na-prática-o-usuário-tá-ativo-ou-só-não-deletou-o-app-adb4e21eeed5)
+  - 📓 [`mau/mau_simulation.ipynb`](./mau/mau_simulation.ipynb)
