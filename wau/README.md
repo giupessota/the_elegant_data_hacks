@@ -7,5 +7,5 @@ O objetivo é mostrar como a métrica pode ser calculada com diferentes abordage
 ## 📁 Arquivos
 
 - `wau_simulation.ipynb`: notebook completo com simulação, cálculos e visualizações
-- `WAU_rolling_window.png`: gráfico com WAU diário (janela rolante) para março
+- `WAU_rolling_window.png`: gráfico com WAU diário (janela deslizante) para março
 - `WAU_fixo_semanal.png`: gráfico de WAU fixo por semana (março/2025)
