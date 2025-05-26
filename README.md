@@ -13,3 +13,5 @@ Cada pasta corresponde a um post, com exemplos de código, gráficos, datasets e
   - 📓 [`wau/wau_simulation.ipynb`](./wau/wau_simulation.ipynb)
 - [MAU na prática: o usuário tá ativo ou só não deletou o app?](https://medium.com/the-elegant-data-hacks/mau-na-prática-o-usuário-tá-ativo-ou-só-não-deletou-o-app-adb4e21eeed5)
   - 📓 [`mau/mau_simulation.ipynb`](./mau/mau_simulation.ipynb)
+- [Cohort (ou coorte) na prática: como enxergar padrões além da média](https://medium.com/the-elegant-data-hacks/cohort-ou-coorte-na-prática-como-enxergar-padrões-além-da-média-8d9db5d8a48c)
+  - 📓 [`cohort/cohort_analysis.ipynb`](./cohort/cohort_analysis.ipynb)
