@@ -15,9 +15,9 @@ O objetivo é demonstrar como calcular e visualizar uma análise de cohort de fo
 
 ## 📁 Arquivos
 
-- [`cohort_simulation.ipynb`]: notebook com o passo a passo da análise
-- [`cohort_absolute_heatmap.png`]: gráfico com número absoluto de usuários
-- [`cohort_percent_heatmap.png`]: gráfico com retenção percentual
+- [`cohort_simulation.ipynb`](./cohort/cohort_simulation.ipynb): notebook com o passo a passo da análise
+- [`cohort_absolute_heatmap.png`](./cohort/cohort_absolute_heatmap.ipynb): gráfico com número absoluto de usuários
+- [`cohort_percent_heatmap.png`](./cohort/cohort_percent_heatmap.ipynb): gráfico com retenção percentual
 - `README.md`: este arquivo ;)
 
 ---
